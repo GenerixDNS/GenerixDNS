@@ -8,5 +8,5 @@ My name is Alexander and I like to program and design.
  [![Teamspeak][teamspeak-shield]][teamspeak-url]
  [![spotify][spotify-shield]][spotify-url]
 
-![](https://raw.githubusercontent.com/GenerixDNS/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/GenerixDNS/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![generixdns](https://raw.githubusercontent.com/GenerixDNS/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![generixdns](https://raw.githubusercontent.com/GenerixDNS/github-stats/master/generated/languages.svg#gh-light-mode-only)
