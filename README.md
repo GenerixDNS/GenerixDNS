@@ -2,6 +2,9 @@
 
 My name is Alexander and I like to program and design.
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=generixdns&label=Profile%20views&color=0e75b6&style=plastic" alt="generixdns" /> 
+
 <div align="center">
   <a href="https://github.com/generixdns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=generixdns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
