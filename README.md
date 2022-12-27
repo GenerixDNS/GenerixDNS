@@ -1,5 +1,6 @@
 
 <p align="center" style="padding: 20px">my name is alexander and i like to program and design.</p>
+<br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=generixdns&label=Profile%20views&color=0e75b6&style=plastic" alt="HarmanTBK views" />
 <div align="center">
   <div align="center" style="padding: 20px">
@@ -13,6 +14,7 @@
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Git" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
   </div>
 </div>
+<br>
 
 <div align="center" style="padding: 20px">
   <a href="https://github.com/generixdns">
