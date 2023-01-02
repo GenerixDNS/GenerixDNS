@@ -18,6 +18,6 @@
 
 <div align="center" style="padding: 20px">
   <a href="https://github.com/generixdns">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=generixdns&layout=compact&langs_count=7&theme=dracula" alt="statics"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=generixdns&layout=compact&langs_count=7&theme=dracula" alt="statics"/>
 </div>
 
