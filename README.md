@@ -7,6 +7,7 @@
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Rust" width="45px" src="https://www.pinclipart.com/picdir/big/147-1470438_learn-rust-and-webassembly-rust-lang-clipart.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="C++" width="45px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Intellij" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
+  <img align="center" style="padding-left: 5px; padding-right: 5px" alt="C" width="45px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Vs" width="45px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Java" width="45px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Kotlin" width="45px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18852341021548218200-512.png" />
