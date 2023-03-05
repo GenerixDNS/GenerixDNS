@@ -1,4 +1,15 @@
 
+```c++
+class NurAlex : public Person {
+public:
+    explicit NurAlex() {
+        this->m_name = "NurAlex";
+        this->m_languages = new char*[]{"C", "C++", "Java", "Rust", "Kotlin", "Qml"};
+    }
+};
+}
+```
+
 <p align="center" style="padding: 20px">my name is alexander and i like to program and design.</p>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=generixdns&label=Profile%20views&color=0e75b6&style=plastic" alt="HarmanTBK views" />
