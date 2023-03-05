@@ -1,16 +1,3 @@
-
-```c++
-class NurAlex : public Person {
-public:
-    explicit NurAlex() {
-        this->m_name = "NurAlex";
-        this->m_languages = new char*[]{"C", "C++", "Java", "Rust", "Kotlin", "Qml"};
-    }
-};
-}
-```
-
-<p align="center" style="padding: 20px">my name is alexander and i like to program and design.</p>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=generixdns&label=Profile%20views&color=0e75b6&style=plastic" alt="HarmanTBK views" />
 <div align="center">
@@ -33,3 +20,13 @@ public:
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=generixdns&layout=compact&langs_count=7&theme=dracula" alt="statics"/>
 </div>
 
+```c++
+class NurAlex : public Person {
+public:
+    explicit NurAlex() {
+        this->m_name = "NurAlex";
+        this->m_languages = new char*[]{"C", "C++", "Java", "Rust", "Kotlin", "Qml"};
+    }
+};
+}
+```
